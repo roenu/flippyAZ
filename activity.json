@@ -1,9 +1,9 @@
 {"questionlist":[
- {"cardfront":"CAT",
- "cardback":"GATO"
+ {"cardfront":"Azure",
+ "cardback":"Cloud"
  },
- {"cardfront":"DOG",
- "cardback":"PERRO"
+ {"cardfront":"AWS",
+ "cardback":"Amazon Web Service"
  },
  {"cardfront":"HORSE",
  "cardback":"CABALLO"
